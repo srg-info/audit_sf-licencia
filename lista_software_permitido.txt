@@ -1,0 +1,27 @@
+microsoft office
+microsoft edge
+microsoft visual c++
+microsoft teams
+adobe acrobat reader
+adobe reader
+google chrome
+mozilla firefox
+7-zip
+winrar
+notepad++
+sublime text
+visual studio code
+python
+java
+node.js
+vlc media player
+zoom
+slack
+anydesk
+teamviewer
+putty
+mysql
+sql server management studio
+postgresql
+wireshark
+forticlient
