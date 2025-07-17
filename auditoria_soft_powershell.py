@@ -1,3 +1,10 @@
+''' ======================================================
+--  Proyecto: auditoria_soft_powershell
+--  Autor: [serg.info]
+--  Licencia: [MIT]
+--  Descripción: Aquí te dejo el Script en Python para ejecuta desde la powersell.
+-- ======================================================'''
+
 import subprocess
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill
