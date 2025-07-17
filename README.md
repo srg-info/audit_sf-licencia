@@ -34,3 +34,10 @@ Incluye:
 ├── lista_software_permitido.txt # Lista blanca de software autorizado alterada, no la proporcionada por PYME.
 ├── reporte_auditoria.xlsx # Reporte generado automáticamente una vez ejecutado el script.
 └── README.md
+
+## 📄 Licencia
+
+Este script se distribuye con fines educativos y está bajo licencia MIT. ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+##
+@ srg-info | Proyecto personal para automatización de tareas con Python. 
