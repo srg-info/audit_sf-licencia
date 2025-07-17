@@ -1,3 +1,11 @@
+-- ======================================================
+--  Proyecto: auditoria_sf_v1
+--  Autor: [serg.info]
+--  Descripción: Aquí te dejo el Script en Python, realizado para el escaneo automático de los quipos.
+--  Su función es detectar software instalado no licenciado o no oficial, generando un informe en Excel o CSV 
+--  para la toma de decisiones en áreas de TI y seguridad, en su función arroja software absoleto en la lista no liceciados."
+-- ======================================================
+
 import subprocess
 from openpyxl import Workbook
 from openpyxl.styles import PatternFill
